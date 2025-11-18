@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Patrik Sarmento, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHS,Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTACIO. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/patrik_sarmentoo/".
+Me chamo Patrik Sarmento, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHS,Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ESTACIO. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu Instagram, com o perfil chamado "https://www.instagram.com/patrik_sarmentoo/".
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
