@@ -5,11 +5,11 @@
 Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHLS, com o curso em porgramação(Especialização em Python). Atualmente, estou cursando Analise e desenvolvimento de sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no instagram e do meu perfil no linkedin.
 
 <p align="left">
-    <a href="https://github.com/patriksilva22?tab=followers">
+    <a href="https://www.instagram.com/patrik_sarmentoo/">
         <img 
-            alt="Perfil" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/patriksilva22?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            alt="Instagram" 
+            title="Me siga no Instagram"
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
 </p>
