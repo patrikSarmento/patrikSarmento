@@ -1,21 +1,27 @@
 # 👨‍💻 Patrik Sarmento
 
-**`Desenvolvedor Junior`**
+**`Desenvolvedor Júnior`**
 
-Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazonas. Concluí o ensino médio no RHLS, com o curso em programação (Especialização em Python). Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu perfil no Instagram e do meu perfil no LinkedIn.
+Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazonas. Iniciei meus estudos em programação em novembro de 2024 e, desde então, venho me dedicando diariamente a evoluir na área de tecnologia.
 
-<p align="left">
-    <a href="https://www.instagram.com/patrik_sarmentoo/">
-        <img 
-            alt="Instagram" 
-            title="Me siga no Instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
-    </a>
-</p>
+Concluí o ensino médio pelo RHLS, onde tive contato com programação e uma especialização em Python. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas, buscando fortalecer ainda mais minha base técnica e prática.
+
+Tenho grande interesse em desenvolvimento e gosto de aprender criando projetos, explorando novas tecnologias e resolvendo problemas reais. Estou em busca da minha primeira oportunidade como desenvolvedor, onde eu possa aplicar meus conhecimentos, aprender com profissionais experientes e crescer na área.
+
+Também compartilho minha jornada e aprendizados através das minhas redes sociais.
+
+---
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/patrik-sarmento-da-silva">
+  <a href="https://www.instagram.com/patrik_sarmentoo/" target="_blank">
+    <img 
+      alt="Instagram" 
+      title="Me siga no Instagram"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/patrik-sarmento-da-silva" target="_blank">
     <img 
       alt="LinkedIn" 
       title="Me conecte no LinkedIn"
