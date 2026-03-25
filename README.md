@@ -70,11 +70,3 @@ Também compartilho minha jornada e aprendizados através das minhas redes socia
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=patrikSarmento&show_icons=true&theme=tokyonight&locale=pt-br" 
-    height="180"
-  />
-</p>
