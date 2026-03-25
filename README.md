@@ -47,6 +47,10 @@ Também compartilho minha jornada e aprendizados através das minhas redes socia
 <img alt="Selenium" title="Selenium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
 
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/patrikSarmento/patrikSarmento/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 ---
 
