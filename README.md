@@ -45,6 +45,22 @@ Também compartilho minha jornada e aprendizados através das minhas redes socia
 <img alt="PostgreSQL" title="PostgreSQL" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img alt="Git" title="Git" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img alt="Selenium" title="Selenium" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+---
+
+### 📊 Estatísticas
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=patrikSarmento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180"
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrikSarmento&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6" 
+    height="180"
+  />
+</p>
+
 
 </p>
 <p align="center">
