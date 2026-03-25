@@ -14,6 +14,17 @@ Me chamo Patrik Sarmento da Silva, tenho 25 anos e sou natural de Manaus - Amazo
     </a>
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/patrik-sarmento-da-silva">
+    <img 
+      alt="LinkedIn" 
+      title="Me conecte no LinkedIn"
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
