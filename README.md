@@ -1,7 +1,7 @@
 # 👨‍💻 Patrik Sarmento
 **Desenvolvedor Júnior**
 
-Me chamo **Patrik Sarmento da Silva**, tenho 25 anos e sou natural de Manaus - Amazonas.
+Me chamo **Patrik Sarmento da Silva**, tenho 26 anos e sou natural de Manaus - Amazonas.
 
 Iniciei meus estudos em programação em novembro de 2024 e, desde então, venho me dedicando diariamente à evolução na área de tecnologia.
 
