@@ -1,15 +1,28 @@
-# 👨‍💻 Patrik Sarmento
-**Desenvolvedor Júnior**
+# Analista de Dados em Formação
 
-Me chamo **Patrik Sarmento da Silva**, tenho 26 anos e sou natural de Manaus - Amazonas.
+Me chamo Patrik Sarmento da Silva, tenho 26 anos e sou natural de Manaus - Amazonas.
 
-Iniciei meus estudos em programação em novembro de 2024 e, desde então, venho me dedicando diariamente à evolução na área de tecnologia.
+Atualmente, curso Análise e Desenvolvimento de Sistemas e venho direcionando meus estudos para a área de Dados, com foco em análise, visualização e transformação de informações em insights para tomada de decisão.
 
-Concluí o ensino médio pelo RHLS, onde tive meu primeiro contato com programação e uma especialização em Python. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, com foco em fortalecer minha base técnica e prática.
+Tenho experiência prática no desenvolvimento de dashboards interativos utilizando Power BI, além de conhecimentos em SQL, Excel, Power Query e DAX para tratamento, modelagem e análise de dados. Busco constantemente aprimorar minhas habilidades por meio de projetos que simulam desafios reais de negócio.
 
-Tenho grande interesse em desenvolvimento de software e acredito muito no aprendizado através da prática. Gosto de criar projetos, explorar novas tecnologias e resolver problemas reais.
+Acredito que os dados têm um papel fundamental na geração de valor para empresas, e por isso procuro desenvolver soluções que facilitem a interpretação de informações e apoiem decisões estratégicas.
 
-🎯 **Objetivo:** conquistar minha primeira oportunidade como desenvolvedor.
+Neste portfólio você encontrará projetos voltados para Business Intelligence, análise exploratória de dados e criação de dashboards com foco em indicadores de desempenho e geração de insights.
+
+Principais competências:
+
+Power BI
+SQL
+Excel
+Power Query
+DAX
+Modelagem de Dados
+Visualização de Dados
+Business Intelligence (BI)
+Análise Exploratória de Dados
+
+Objetivo: conquistar minha primeira oportunidade na área de Dados, aplicando conhecimentos analíticos para transformar dados em informações relevantes para o negócio.
 
 ---
 
@@ -29,14 +42,14 @@ Tenho grande interesse em desenvolvimento de software e acredito muito no aprend
 ## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
